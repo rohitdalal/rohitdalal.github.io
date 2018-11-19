@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition , seemed to unite some of the best blessings of existence ; and had lived nearly twenty - one years in the world with very little to distress or vex her.',
+      'Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence ; and had lived nearly twenty - one years in the world with very little to distress or vex her.',
   'example2':
-      'Few women could think more of their personal appearance than he did , nor could the valet of any new made lord be more delighted with the place he held in society .',
+      'Few women could think more of their personal appearance than he did, nor could the valet of any new made lord be more delighted with the place he held in society.',
   'example3':
-      'His father was rendered easy by such an assurance , and Mr . John Dashwood had then leisure to consider how much there might prudently be in his power to do for them .'      
+      'His father was rendered easy by such an assurance, and Mr.John Dashwood had then leisure to consider how much there might prudently be in his power to do for them.'      
 };
 
 function status(statusText) {
