@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Poets and priests , if you will pardon my simplicity of speech , never have any money .',
   'example3':
-      'Thus repulsed , our final hope Is flat despair : we must exasperate Th ' Almighty Victor to spend all his rage ; And that must end us ; that must be our cure -- To be no more .'      
+      'Thus repulsed , our final hope Is flat despair : we must exasperate Th Almighty Victor to spend all his rage ; And that must end us ; that must be our cure -- To be no more .'      
 };
 
 function status(statusText) {
