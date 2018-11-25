@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition , seemed to unite some of the best blessings of existence ; and had lived nearly twenty - one years in the world with very little to distress or vex her .',
   'example2':
-      'Muscari meanwhile , without waiting for support , had crested the bank up to the road , and struck the brigand king heavily on the shoulder , causing him to stagger and swing round .',
+      'Poets and priests , if you will pardon my simplicity of speech , never have any money .',
   'example3':
-      'A fairer person lost not Heaven ; he seemed For dignity composed , and high exploit .'      
+      'Thus repulsed , our final hope Is flat despair : we must exasperate Th ' Almighty Victor to spend all his rage ; And that must end us ; that must be our cure -- To be no more .'      
 };
 
 function status(statusText) {
