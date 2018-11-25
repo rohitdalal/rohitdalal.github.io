@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Mr . Elton ' s situation was most suitable , quite the gentleman himself , and without low connexions ; at the same time , not of any family that could fairly object to the doubtful birth of Harriet .',
+      'Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition , seemed to unite some of the best blessings of existence ; and had lived nearly twenty - one years in the world with very little to distress or vex her .',
   'example2':
       'Muscari meanwhile , without waiting for support , had crested the bank up to the road , and struck the brigand king heavily on the shoulder , causing him to stagger and swing round .',
   'example3':
