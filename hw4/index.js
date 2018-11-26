@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition , seemed to unite some of the best blessings of existence ; and had lived nearly twenty - one years in the world with very little to distress or vex her .',
   'example2':
-      'Poets and priests , if you will pardon my simplicity of speech , never have any money .',
+      'In the sixteenth century we Tuscans made the morning : we had the newest steel , the newest carving , the newest chemistry .',
   'example3':
       'Thus repulsed , our final hope Is flat despair : we must exasperate Th Almighty Victor to spend all his rage ; And that must end us ; that must be our cure -- To be no more .'      
 };
